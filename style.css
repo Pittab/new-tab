@@ -1,0 +1,52 @@
+body{
+  background-color:#24273a;
+  text-align:center;
+  font-family:'Courier New', monospace;
+  color:#8087a2;
+  font-weight:bolder;
+  font-size:10vw;
+  height: 100vh;
+}
+button{
+  background-color:#1e2030;
+  color:#8087a2;
+  border:none;
+  font-family:'Courier New', monospace;
+  font-size:30%;
+  padding:20px;
+  font-weight:bolder;
+}
+#searchForm {
+    text-align: center;
+    float:center;
+    width: 50%;
+}
+
+#searchbit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchInput {
+    padding: 20px;
+    font-size: 24px;
+    width: calc(100% - 30px);
+    border: none;
+    float:center;
+    background-color: #1e2030;
+    color: #8087a2;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    margin-top: 100px;
+}
+h3{
+  font-size:30%;
+}
+#spacer{
+  padding:1%;
+}
