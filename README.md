@@ -1,2 +1,2 @@
 # new-tab
-pittab's shit new tab
+this software is so god
