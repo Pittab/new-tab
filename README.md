@@ -1,2 +1,2 @@
 # new-tab
-simple new tab page, website above, we have an extension and it just converts your new tab to our website
+simple new tab page, website above, we have an extension, too, available from the releases page
