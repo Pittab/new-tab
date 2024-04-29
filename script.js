@@ -7,3 +7,10 @@ function searchEcosia() {
     }
     return false; // Prevent default form submission
 }
+document.addEventListener('DOMContentLoaded', function() {
+ const form = document.getElementById('searchForm');
+ form.addEventListener('submit', function(event) {
+    event.preventDefault();
+    searchEcosia()
+ });
+});
